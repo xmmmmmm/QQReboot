@@ -1,0 +1,8 @@
+main: org.xmmmm.github.QQToGame
+name: qq
+version: 1.0
+
+commands:
+   loginqq:
+      description: get a code in a map
+      usage: /<command> [URL]

@@ -1,0 +1,20 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="QQReboot:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/QQReboot_jar</output-path>
+    <root id="archive" name="QQReboot.jar">
+      <element id="module-output" name="QQReboot" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../maven/apache-maven-3.5.3/repo/org/junit/platform/junit-platform-commons/1.2.0/junit-platform-commons-1.2.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../maven/apache-maven-3.5.3/repo/org/json/json/20180130/json-20180130.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../maven/apache-maven-3.5.3/repo/org/junit/jupiter/junit-jupiter-api/5.2.0/junit-jupiter-api-5.2.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/Downloads/httpcomponents-client-4.5.5/lib/httpcore-4.4.9.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/Downloads/httpcomponents-client-4.5.5/lib/commons-logging-1.2.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../maven/apache-maven-3.5.3/repo/org/apiguardian/apiguardian-api/1.0.0/apiguardian-api-1.0.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../maven/apache-maven-3.5.3/repo/junit/junit/4.7/junit-4.7.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../maven/apache-maven-3.5.3/repo/org/opentest4j/opentest4j/1.1.0/opentest4j-1.1.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/Downloads/httpcomponents-client-4.5.5/lib/commons-codec-1.10.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/Downloads/httpcomponents-client-4.5.5/lib/httpclient-4.5.5.jar" path-in-jar="/" />
+      <element id="file-copy" path="$PROJECT_DIR$/src/main/java/config.yml" />
+      <element id="file-copy" path="$PROJECT_DIR$/src/main/java/plugin.yml" />
+    </root>
+  </artifact>
+</component>
